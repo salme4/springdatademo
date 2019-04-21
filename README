@@ -1,5 +1,6 @@
 init
 
+
 | |Apache Hadoop|Cloudera|Hortonworks (including IBM, Microsoft Azure, and Pivotal)|MapR|
 |:---|---|---|---|---|
 |Ingestion|Sqoop, Flume|NiFi|||
@@ -8,3 +9,4 @@ init
 |Security|Ranger|Sentry*|Ranger| |	 
 |Governance|Atlas |Navigator*|Atlas|Resells Waterline*|
 |Filesystem|HDFS|HDFS|HDFS|MapR-FS|
+
